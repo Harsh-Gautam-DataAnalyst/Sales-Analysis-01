@@ -38,21 +38,6 @@ The analysis is performed using **Python (pandas, matplotlib, seaborn)** and **P
 - **Jupyter Notebook:** For exploratory data analysis
 - **Excel/CSV:** Raw and processed data
 
-## 📦 Folder Structure
-
-Sales Analysis 01/
-├── data/
-│ ├── raw_data.csv
-│ └── cleaned_data.csv
-├── notebooks/
-│ └── sales_analysis.ipynb
-├── dashboards/
-│ └── power_bi_dashboard.pbix
-├── reports/
-│ └── weekly_insights.pdf
-├── recommendations/
-│ └── strategic_recommendations.pdf
-└── README.md
 
 ## 📬 Contact
 
